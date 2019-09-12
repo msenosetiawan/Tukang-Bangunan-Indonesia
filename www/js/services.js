@@ -480,7 +480,7 @@ angular.module("tukang_bangunan_indonesia.services", [])
 .run(function($ionicPlatform, $ionicLoading){
 	$ionicPlatform.ready(function(){
 	   
-		var ref = window.open("https://tukangbangunan.ayomulai.online", "_blank","location=no");
+		var ref = window.open("https://tukangbangunan.or.id", "_blank","location=no");
 
         ref.addEventListener("loadstart", function() {
 			ref.insertCSS({

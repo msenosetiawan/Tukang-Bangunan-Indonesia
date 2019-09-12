@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.ayomulaionline.tukangbangunanindonesia" version="1.0.190910" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.ayomulaionline.tukangbangunanindonesia" version="1.0.190912" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Tukang Bangunan Indonesia</name>
-	<description>Aplikasi Resmi Perkumpulan  Tukang Bangunan Indonesia</description>
+	<description>Aplikasi resmi Perkumpulan Pekerja  Tukang Bangunan Indonesia</description>
 	<author email="halo@ayomulai.online" href="https://ayomulai.online:">Michael Seno Setiawan</author>
 	<content src="index.html" />
 	<!-- Network Request Whitelist -->
